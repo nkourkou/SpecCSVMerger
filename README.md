@@ -127,7 +127,7 @@ or use the **Cite this repository** button on GitHub.
 
 ## License
 
-[MIT](LICENSE) © 2023 Nikolaos Kourkoumelis, KRGroup, University of Ioannina, Greece —
+[MIT](LICENSE) © 2026 Nikolaos Kourkoumelis, University of Ioannina, Greece —
 <https://myweb.uoi.gr/nkourkou/>
 
 ENLIGHTEN and Wasatch Photonics are trademarks of their respective owner. This project
