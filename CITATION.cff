@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SpecCSVMerger: Spectra CSV merger for ENLIGHTEN spectroscopy files"
+type: software
+authors:
+  - family-names: Kourkoumelis
+    given-names: Nikolaos
+    affiliation: "KRGroup, University of Ioannina, Greece"
+version: 1.2.0
+license: MIT
+url: "https://myweb.uoi.gr/nkourkou/"
+keywords:
+  - Raman spectroscopy
+  - ENLIGHTEN
+  - Wasatch Photonics
+  - CSV
+  - spectra
